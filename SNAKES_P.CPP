@@ -280,6 +280,5 @@ outtextxy(250,360,"SNAKE GAME");
 outtextxy(110,380,a);
 outtextxy(450,370,"BY:-");
 outtextxy(480,380,"VACHAN ANAND");
-outtextxy(480,390,"CHAHAK DEMBLA");
 }
 
